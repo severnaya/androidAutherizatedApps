@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ghsync.iml" filepath="$PROJECT_DIR$/Ghsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ghsync/ghsync.iml" filepath="$PROJECT_DIR$/ghsync/ghsync.iml" />
+    </modules>
+  </component>
+</project>
+
